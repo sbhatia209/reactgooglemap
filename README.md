@@ -1,4 +1,4 @@
-# reactgooglemap
+# React Google Map in Next JS
 Google Map in your Next JS app
 I have added all the information to my blog. Kindly refer to this. 
 
